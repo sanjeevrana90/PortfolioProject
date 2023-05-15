@@ -1,0 +1,23 @@
+Visualizations 
+1. Name/title
+2. sum of amount
+3. sum of profit
+4. sum of quantity
+5. Sum of AOV (average order Value)
+6. top states
+7. Quantity category wise
+8. Top Customers
+9. Quantity - payment mode wise
+10. profit/loss by month
+11. Profit by sub category
+12. Slicers if needed
+
+Data Cleaning steps
+	check for errors
+	check for duplicates
+	check for blanks
+	check for header (correct position or not)
+	check for null values
+	check for data type errors
+
+Additional Materials to be included - Project Learnings
