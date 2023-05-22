@@ -1,0 +1,16 @@
+"Segment Shopping Customers"
+
+* Problem Statement - Understand the target customer (TG) for the marketing team to plan a strategy
+* Context - Your boss wants you to identiry the most important shopping groups based on income, age and the mall shopping score.
+* He wants the ideal number of groups with a label for each 
+
+"Objective Market Segmentation"
+
+Divide the mall target market into approachable goups by creating subsets of a market based on demographics behavioral criteria to better understand the target for marketing activities.
+
+THE APPROACH
+
+1. Perform some quick EDA (Exploratory Data Analysis)
+2. Use KMEANS Clustering Algorithm to create our segments
+3. Use Summary Statistics on the clusters
+4. Visualize
