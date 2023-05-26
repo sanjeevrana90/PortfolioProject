@@ -1,0 +1,14 @@
+Data Cleaning steps
+	check for errors
+	check for duplicates
+	check for blanks
+	check for header (correct position or not)
+	check for null values
+	check for data type errors
+
+
+"Scope of the Project"
+
+Understanding the reason for attrition and reduce attrition to below 10%
+ 
+KPIs supporting story
